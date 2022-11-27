@@ -6,7 +6,7 @@ Repositório de estudos de visualização de dados utilizando as principais bibl
 - [Matplotlib - Gráfico de Pizza e Subplots](https://github.com/talitacgs/Data_Visualization/blob/main/Matplotlib/02.%20Matplotlib-%20Gr%C3%A1fico%20de%20Pizza%20e%20Subplots%20.ipynb)
 - [Matplotlib - Customização, Layout e Histograma](https://github.com/talitacgs/Data_Visualization/blob/main/Matplotlib/03.%20Matplotlib-%20Customiza%C3%A7%C3%A3o%2C%20Layout%20e%20Histograma.ipynb)
 - [Matplotlib - Boxplot e Scatterplot](https://github.com/talitacgs/Data_Visualization/blob/main/Matplotlib/04.%20Matplotlib-%20Boxplot%20e%20Scatterplot.ipynb)
-- Matplotlib - Analisando Titanic
+- [Matplotlib - Analisando Titanic](https://github.com/talitacgs/Data_Visualization/blob/main/Matplotlib/05.%20Matplotlib-%20Analisando%20Titanic.ipynb)
 
 
 ### Referências
